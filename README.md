@@ -1,3 +1,3 @@
 # jrhudlstn.github.io
 MSDS 455 Visualiztions
-For Course Summer 202 at Northwestern University
+For Course Summer 2020 at Northwestern University
